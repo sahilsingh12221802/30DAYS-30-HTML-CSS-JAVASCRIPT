@@ -33,5 +33,4 @@ Contributions are welcome! If you'd like to improve the animation, add new featu
 5. Push to the branch (`git push origin feature/improvement`).
 6. Create a new Pull Request.
 
-Please make sure your code follows the project's coding style and includes appropriate documentation.
 
