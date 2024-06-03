@@ -6,3 +6,4 @@
 - [Tic Tac Toe](https://github.com/sahilsingh12221802/30-DAYS-30-HTML-CSS-JAVASCRIPT-PROJECTS/tree/main/Tic%20Tac%20Toe)<br>
 - [To-Do List](https://github.com/sahilsingh12221802/30-DAYS-30-HTML-CSS-JAVASCRIPT-PROJECTS/tree/main/To-Do%20List)<br>
 - [Snake Game](https://github.com/sahilsingh12221802/30-DAYS-30-HTML-CSS-JAVASCRIPT-PROJECTS/tree/main/Snake%20Game)<br>
+- [Windows 11](https://github.com/sahilsingh12221802/30-DAYS-30-HTML-CSS-JAVASCRIPT-PROJECTS/tree/main/Windows%2011)<br>
