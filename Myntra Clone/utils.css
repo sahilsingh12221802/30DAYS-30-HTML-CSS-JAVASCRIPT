@@ -1,0 +1,44 @@
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-center{
+    justify-content: center;    
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.semibold{
+    font-weight: bolder;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.images{
+    display: flex;
+    height: 30px;
+}
+
+.navtext{
+    display: flex;
+    align-items: end;
+    padding-left: 3px;
+}
+
+.img{
+    width: 100vw;
+}
+

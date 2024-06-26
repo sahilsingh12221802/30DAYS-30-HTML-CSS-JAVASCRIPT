@@ -1,0 +1,96 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.left img{
+    height: 45px;
+    width: 45px;
+}
+
+header{
+    position: sticky;
+    top: 0;
+    background-color: white;
+    height: 66px;
+    box-shadow: rgba(0,0,0,0.35) 0px 5px 5px;
+}
+
+
+nav{
+    font-size: 14px;
+    padding-top: 14px;
+}
+
+nav ul li{
+    list-style: none;
+    padding: 0px 10px;
+    text-wrap: nowrap;
+}
+
+.section-1{
+    background: rgb(246, 246, 246);
+} 
+
+.right>input{
+    width: 20vw;
+    border: none;
+    background: rgb(224, 224, 224);
+    padding: 6px 17px;
+    border-radius: 5px;
+}
+
+
+.image-container {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;  
+    overflow: hidden;
+    flex-wrap: wrap;         
+}
+.side-by-side {
+    max-width: 50%; 
+}
+
+.slider {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.slides {
+    display: flex;
+    transition: transform 1s ease-in-out;
+}
+
+.sliderImg {
+    min-width: 20%;
+    height: auto;
+}
+
+.section-3{
+    background: rgb(246, 246, 246);
+} 
+
+.CategoryImages-container{
+    display: flex;
+    justify-content: center; 
+    align-items: center;  
+    overflow: hidden;
+    flex-wrap: wrap;  
+}
+
+.CatImg{
+    max-width: 13%;
+    padding: 20px 20px;
+}
+
+.footer{
+    background: rgb(246, 246, 246);
+    padding: 23px;
+    text-align: left;
+    box-shadow: rgba(0,0,0,0.35) 0px 5px 5px;
+    font-size: larger;
+    font-weight: bold;
+}
