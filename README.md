@@ -9,3 +9,4 @@
 - [Windows 11](https://github.com/sahilsingh12221802/30-DAYS-30-HTML-CSS-JAVASCRIPT-PROJECTS/tree/main/Windows%2011)<br>
 - [Gym Landing Page](https://github.com/sahilsingh12221802/30-DAYS-30-HTML-CSS-JAVASCRIPT-PROJECTS/tree/main/Gym%20Landing%20Page)
 - [Myntra Clone](https://github.com/sahilsingh12221802/30-DAYS-30-HTML-CSS-JAVASCRIPT-PROJECTS/tree/main/Myntra%20Clone)
+- [3D Image Rotation](https://github.com/sahilsingh12221802/HTML-CSS-JAVASCRIPT-PROJECTS/tree/main/3d%20Image%20Rotation)
